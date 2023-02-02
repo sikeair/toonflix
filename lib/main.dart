@@ -43,7 +43,7 @@ class MyLargeTitle extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Text(
-      'My Large Titie',
+      'My Lare Titie',
       style: TextStyle(
         fontSize: 30,
         color: Theme.of(context).textTheme.titleLarge!.color,
